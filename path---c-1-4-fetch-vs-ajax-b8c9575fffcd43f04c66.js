@@ -1,0 +1,2 @@
+webpackJsonp([0x995afb6c1392],{305:function(e,t){e.exports={data:{markdownRemark:{html:'<h1>Chapter 1.4: Ajax, Fetch, Async Await</h1>\n<iframe width="100%" height="300" src="//jsfiddle.net/superoo7/52mwg5ss/embedded/" allowpaymentrequest allowfullscreen="allowfullscreen" frameborder="0"></iframe>',frontmatter:{path:"/c1-4-fetch-vs-ajax",title:"Ajax, Fetch, Async Await"}}},pathContext:{}}}});
+//# sourceMappingURL=path---c-1-4-fetch-vs-ajax-b8c9575fffcd43f04c66.js.map

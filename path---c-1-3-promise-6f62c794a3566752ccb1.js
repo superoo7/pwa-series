@@ -1,0 +1,2 @@
+webpackJsonp([25348418038240],{304:function(e,r){e.exports={data:{markdownRemark:{html:'<h1>Chapter 1.3: Promise</h1>\n<iframe width="100%" height="300" src="//jsfiddle.net/superoo7/aqkw9b34/embedded/" allowpaymentrequest allowfullscreen="allowfullscreen" frameborder="0"></iframe>',frontmatter:{path:"/c1-3-promise",title:"Promise"}}},pathContext:{}}}});
+//# sourceMappingURL=path---c-1-3-promise-6f62c794a3566752ccb1.js.map
