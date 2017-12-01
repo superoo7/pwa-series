@@ -1,8 +1,0 @@
-{
-  "name": "pwa-course",
-  "version": "1.0.0",
-  "description": "Website for teaching PWA",
-  "main": "index.js",
-  "license": "MIT",
-  "author": "Lai Weng Han"
-}
