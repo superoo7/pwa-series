@@ -29,7 +29,7 @@ _Currently this is still early access, more content is coming! (Those clickable 
 <span id="chapter-1"></span>
 ### Chapter 1: Modern JavaScript
 1) [Introduction to ES6](/c1-1-intro-to-es6)
-2) Map, Filter, Reduce
+2) [Map, Filter, Reduce](/c1-2-map-filter-reduce)
 3) Promise
 4) Fetch Vs AJAX/XHR
 5) Introduction to NPM, Babel and Yarn
