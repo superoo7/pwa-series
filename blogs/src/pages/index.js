@@ -1,6 +1,5 @@
 import React from 'react'
 import Link from 'gatsby-link'
-
 const IndexPage = ({data}) => (
   <div>
     <h1>Progressive Web App Series</h1>
@@ -11,7 +10,6 @@ const IndexPage = ({data}) => (
             <li key={post.node.frontmatter.chapter}><Link to={post.node.frontmatter.path}>{post.node.frontmatter.chapter} {post.node.frontmatter.title}</Link></li>
         ))}
     </ul>
-
   </div>
 )
 

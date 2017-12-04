@@ -8,7 +8,7 @@ import './index.scss'
 const Header = () => (
   <div
     style={{
-      background: 'rebeccapurple',
+      background: '#1BBC9B',
       marginBottom: '1.45rem',
     }}
   >
@@ -22,10 +22,7 @@ const Header = () => (
       <h1 style={{ margin: 0 }}>
         <Link
           to="/"
-          style={{
-            color: 'white',
-            textDecoration: 'none',
-          }}
+          id="header"
         >
           SUPEROO7's PWA GUIDE
         </Link>
@@ -37,10 +34,10 @@ const Header = () => (
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="Gatsby Default Starter"
+      title="Progressive Web App Video Series"
       meta={[
-        { name: 'description', content: 'Sample' },
-        { name: 'keywords', content: 'sample, something' },
+        { name: 'description', content: 'Progressive Web App Video Series' },
+        { name: 'keywords', content: 'PWA, JavaScript' },
       ]}
     />
     <Header />

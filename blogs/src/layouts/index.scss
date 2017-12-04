@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=VT323');
+$VT: 'VT323', monospace;
+
+#header {
+  font-family: $VT;
+  color: #eeeeee;
+  text-decoration: none;
+  font-size: 6rem;
+}
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
@@ -38,11 +48,12 @@ template {
   display: none;
 }
 a {
-  background-color: transparent;
+  color: #26A65B;
   -webkit-text-decoration-skip: objects;
 }
 a:active,
 a:hover {
+  color: #90C695;
   outline-width: 0;
 }
 abbr[title] {
@@ -206,6 +217,7 @@ body {
   -ms-font-feature-settings: "kern", "liga", "clig", "calt";
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
+  background-color: #C8F7C5;
 }
 img {
   max-width: 100%;
