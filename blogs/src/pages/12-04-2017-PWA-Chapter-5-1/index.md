@@ -9,6 +9,8 @@ date: '2017-12-04'
 # Push Notification with Ruby On Rails
 # Setup
 ## Introduction
+<iframe style="width: 100%; min-height: 400px;" src="https://www.youtube.com/embed/hfYTU1BPHeg" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 This blog is about upcoming [Ruby Tuesday](https://www.meetup.com/ruby-malaysia/events/245295318/), and I am giving a talk with title of "Introduction to Push Notification"
 
 Before I start talking about this topic, the Front end part can be apply to any of the existing website, just backend in this post, I am using Ruby On Rails.

@@ -3,6 +3,11 @@ import Helmet from 'react-helmet';
 
 export default function Template({data}) {
     const {markdownRemark: post} = data;
+    const disqusConfig = {
+        url: `https://pwa.wenghan.me${post.frontmatter.path}`,
+        identifier: post.frontmatter.chapter,
+        title: post.frontmatter.title
+    };
     // const post = data.markdownRemark;
     return (
         <div>
@@ -20,6 +25,7 @@ export const postQuery = graphql`
       frontmatter {
         path
         title
+        chapter
         date
       }
     }
