@@ -5,7 +5,6 @@ published: true
 chapter: '1.1'
 date: '2017-12-02'
 ---
-# Chapter 1.1: Introduction To ES6
 __ES6__ (also known as EcmaScript6 or EcmaScript2015) is a standard for JavaScript.
 
 In this chapter, I am covering basic Fat Arrow Function and Array in ES6.
