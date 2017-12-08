@@ -10,7 +10,7 @@ export default class IndexPage extends React.Component {
   render() {
     return(
       <div>
-        <h1>Progressive Web App Series</h1>
+        <h1>🚀 Progressive Web App Series</h1>
         <em>By Lai Weng Han</em>
         <hr/>
         <ul>
@@ -22,6 +22,8 @@ export default class IndexPage extends React.Component {
         <DisqusThread id="Home"
                       title="Homepage"
                       path="/" />
+
+          
     </div>
     )
   }

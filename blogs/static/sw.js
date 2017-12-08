@@ -1,7 +1,12 @@
 // Service Worker
-var staticCache = "pwa-static-v1.0";
-var staticCacheFile = ["/", "/index.html", "/styles.css", "https://fonts.googleapis.com/css?family=VT323"];
-var dynamiCache = "pwa-dynamic-v1.0";
+var staticCache = "pwa-static-v1.1";
+var staticCacheFile = [
+    "/", 
+    "/index.html", 
+    "/styles.css", 
+    "https://fonts.googleapis.com/css?family=VT323"
+];
+var dynamiCache = "pwa-dynamic-v1.1";
 
 self.addEventListener('install', function(event) {
     console.log("[SW] Installed Service Worker");
